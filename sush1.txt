@@ -1,0 +1,11 @@
+Name : Shushma
+Learning : DevOps
+Branch : Local Branch
+Flie : New file in Mypersonalbranch
+Clone repository : Git clone "url"
+
+toch file name : add file
+Add data into file :vi
+edit file press i to insert and esc :wq+ enter to save the file
+
+
